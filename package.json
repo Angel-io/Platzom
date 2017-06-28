@@ -1,5 +1,5 @@
 {
-  "name": "@angelio/platzom",
+  "name": "angelioplatzom",
   "version": "0.1.0",
   "description": "Traductor de idioma Platzom",
   "main": "dist/src/platzom.js",
